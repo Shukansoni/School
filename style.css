@@ -1,0 +1,23 @@
+body{
+    background-color: #b8c0ff;
+}
+h1{
+    color: red;
+    text-align: center;
+    text-decoration: red double underline;
+}
+h2{
+    color: #219ebc;
+    text-align: center;
+    text-decoration: #219ebc dashed underline;
+}
+h3{
+    color: #8338ec;
+    text-decoration: #8338ec dotted underline;
+}
+footer{
+    padding: 1px 1px 1px 1px;
+    border: 2px dashed black;
+    display: flex;
+    justify-content: space-evenly;
+}
