@@ -16,7 +16,7 @@ h3{
     text-decoration: #8338ec dotted underline;
 }
 footer{
-    padding: 1px 1px 1px 1px;
+    padding: 1px;
     border: 2px dashed black;
     display: flex;
     justify-content: space-evenly;
